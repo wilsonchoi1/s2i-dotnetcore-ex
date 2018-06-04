@@ -17,7 +17,7 @@ namespace app
         }
 
         public IConfiguration Configuration { get; }
-
+        // Add new comment
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
